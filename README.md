@@ -2,7 +2,6 @@
 <a href='https://postimg.cc/94T9bVSv' target='_blank'><img src='https://i.postimg.cc/8CXb1zbP/banner.png' border='0' alt='banner'/></a>
 
 <h3 align="left">Datos:</h3>
-<a href="https://www.linkedin.com/in/yoharynp/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yohary nunez" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/yoharynp/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -11,10 +10,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=gmail,linkedin" />
-</a>
 
 <h3 align="left">Lenguajes y herramientas:</h3>
 <a href="https://skillicons.dev">
