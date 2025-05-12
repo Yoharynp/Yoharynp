@@ -2,11 +2,9 @@
 <a href='https://postimg.cc/94T9bVSv' target='_blank'><img src='https://i.postimg.cc/8CXb1zbP/banner.png' border='0' alt='banner'/></a>
 <h3 align="left">Datos:</h3>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gmail,linkedin" />
-  </a>
-</p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=gmail,linkedin" />
+</a>
 
 <p align="left">
 <a href="https://linkedin.com/in/yoharynp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yoharynp" height="30" width="40" /></a>
