@@ -1,5 +1,9 @@
-<h1 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hola%2C+Soy+Yohary%F0%9F%91%8B;Mobile+Developer)](https://git.io/typing-svg)</h1>
-<h1 align="center">![banner](https://github.com/user-attachments/assets/57fdd84f-dae7-4e2f-8dc4-b4fd4c012bba)</h1>
+<h1 align="center">
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hola%2C+Soy+Yohary%F0%9F%91%8B;Mobile+Developer)](https://git.io/typing-svg)
+</h1>
+<h1 align="center">
+  ![banner](https://github.com/user-attachments/assets/57fdd84f-dae7-4e2f-8dc4-b4fd4c012bba)
+</h1>
 
 <h3 align="left">Datos:</h3>
 <p align="left">
