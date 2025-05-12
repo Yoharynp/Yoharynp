@@ -1,7 +1,6 @@
 <div align=center>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hola%2C+soy+Yohary+%F0%9F%91%8B;Mobile+Developer" alt="Typing SVG" /></a>  </div>
-<a href='https://postimg.cc/94T9bVSv' target='_blank'><img src='https://i.postimg.cc/94T9bVSv/banner.png' border='0' alt='banner'/></a>
-<h3 align="left">Datos:</h3>
+<a href='https://postimg.cc/94T9bVSv' target='_blank'><img src='https://i.postimg.cc/8CXb1zbP/banner.png' border='0' alt='banner'/></a><h3 align="left">Datos:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yoharynp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yoharynp" height="30" width="40" /></a>
 </p>
